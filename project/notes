@@ -1,0 +1,15 @@
+//chance to find out you are a replicant at some point in your life if human
+
+//make 'limbs' and organs an array so i can make abominations? 
+//make array in props containing parts for each species 
+//make an assemblePerson function to state what they should have dependant on species
+//add abomination modifier to add or remove things 
+//possible to die at birth is born without head for eg?
+
+//make maps for each species 
+//robots get antannae claws etc, axe for a hand eg
+//aliens get tentacles and extra eyes and senses/ glands/ sacks/ (think babel fish organs etc);
+
+//if limb missing -0.1 beauty
+
+//IMPORTANT - MAKE LIFELOG PLAYER SPECIFIC INSTEAD OF PERSON!!

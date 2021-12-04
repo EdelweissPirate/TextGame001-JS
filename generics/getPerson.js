@@ -1,0 +1,28 @@
+function getPerson(person){
+    console.log('Name: ', person.title, person.name, person.surname);
+    console.log('Species: ', person.species, person.crossbreed);
+    console.log('Nationality: ', person.nationality, person.dualCitizen);
+    console.log('Birthplace: ', person.birthplace);
+    console.log('Race: ', person.race);
+    console.log('Gender: ', person.gender);
+    console.log('Age: ', person.age);
+    console.log('Relationships: ', person.relationships);
+    console.log('Location: ', person.location_city + ', ' + person.location_country);
+    console.log('Wealth: ', person.wealth);
+    console.log('Social Class: ', person.social_class);
+    console.log('Roles: ', person.roles);
+    console.log('Jobs: ', person.jobs);
+    console.log('Stats: ', person.stats);
+    console.log('Organs: ', person.vitals.organs);
+    console.log('Limbs: ', person.vitals.limbs);
+    console.log('Health Systems: ', person.vitals.systems);
+    console.log('Traits: ', person.traits);
+    console.log('Languages: ', person.languages);
+    console.log('Skills: ', person.skills);
+    console.log('Ailments: ', person.ailments);
+    console.log('Cybernetic Enhancements: ', person.cybernetic_enhancements);
+    console.log('Weapons: ', person.weapons);
+    console.log('Charms: ', person.charms);
+    console.log('Curses: ', person.curses);
+    console.log('Assets: ', person.assets);
+};
